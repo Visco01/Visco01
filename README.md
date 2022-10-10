@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 - 📚 I’m currently studying at Ca'Foscari University in Venice
 - 🔭 I’m currently working on MyLocalBooking Android app
-- 🌱 I’m currently learning [Ruby on Rails](URL 'https://rubyonrails.org')
-- 🤩 [Emacs](URL 'https://www.gnu.org/software/emacs/') enthusiast
+- 🌱 I’m currently learning [Ruby on Rails](https://rubyonrails.org)
+- 🤩 [Emacs](https://www.gnu.org/software/emacs/) enthusiast
 - 🍎 MacOS user
 - 🎮 Favourite videogames: Metal Gear Solid, The last of us, Dark Souls
-- 📫 Read more about me at my [personal website](URL 'https://visco01.github.io')
+- 📫 Read more about me at my [personal website](https://visco01.github.io)
 
 <hr>
 
