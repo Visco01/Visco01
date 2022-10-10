@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-### ⌨️ Languages:
+### ⌨️ Languages
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40"/>&nbsp;
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-### :hammer_and_wrench: Frameworks & Libraries:
+### :hammer_and_wrench: Frameworks & Libraries
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>&nbsp;
@@ -64,9 +64,27 @@ Here are some ideas to get you started:
 
 <hr><hr>
 
-### ⚙️ Other tools:
+### ⚙️ Other tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40"/>&nbsp;
 </div
+
+<hr><hr>
+
+### :fire: My Stats
+
+<div>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=visco01&theme=dark" alt="visco01" /></p>
+</div>
+
+<div>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=visco01&show_icons=true&theme=dark&locale=en" alt="visco01" /></p>
+</div>
+
+<div>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=visco01&show_icons=true&theme=dark&locale=en&layout=compact" alt="visco01" /></p>
+</div>
+
+
