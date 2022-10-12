@@ -70,6 +70,7 @@ Here are some ideas to get you started:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40"/>&nbsp;
+  <img src="http://icons.iconarchive.com/icons/blackvariant/button-ui-requests-6/1024/Emacs-icon.png" width="40" height="40"/>&nbsp;
 </div
 
 <hr><hr>
