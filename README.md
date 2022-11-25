@@ -4,10 +4,10 @@
     I'm Pietro
 </h1>
 
-<div id="badges" align="center">
-  <img src="res/foxhound.png" width="400"/>
+<!--<div id="badges" align="center">
+  <!--<img src="res/foxhound.png" width="400"/>
   <!--<img src="https://komarev.com/ghpvc/?username=Visco01&style=flat-square&color=blue" alt=""/>-->
-</div>
+<!--</div>
 
 <!--
 <hr>
