@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<hr>
-
 ### 🖥 About me
 
 - 📚 I’m currently studying at Ca'Foscari University in Venice
