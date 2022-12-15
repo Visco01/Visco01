@@ -16,7 +16,7 @@
 
 Here are some ideas to get you started:
 - ⚡ Fun fact: ...
--->
+<!--- 🎮 Favourite videogames: Metal Gear Solid, The last of us, Dark Souls-->
 
 ### 🖥 About me
 
@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning [Ruby on Rails](https://rubyonrails.org)
 - 🤩 [Emacs](https://www.gnu.org/software/emacs/) enthusiast
 - 🍎 MacOS user
-- 🎮 Favourite videogames: Metal Gear Solid, The last of us, Dark Souls
 - 📫 Read more about me at my [personal website](https://visco01.github.io)
 
 <hr>
