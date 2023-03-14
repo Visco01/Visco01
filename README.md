@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### 🖥 About me
 
 - 📚 I’m currently studying at Ca'Foscari University in Venice
-- 🔭 I’m currently working on MyLocalBooking Android app
+<!-- - 🔭 I’m currently working on MyLocalBooking Android app__>
 - 🌱 I’m currently learning [Ruby on Rails](https://rubyonrails.org)
 - 🤩 [Emacs](https://www.gnu.org/software/emacs/) enthusiast
 - 🍎 MacOS user
