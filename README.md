@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 ### 🖥 About me
 
 - 📚 I’m currently studying at Ca'Foscari University in Venice, M.Sc Software Development and Engineering
-<!--- 🌱 I’m currently learning Software Performance & Scalability, Web & Software Security, Software Correctness, Security and Availability-->
-<!--- 🤩 [Emacs](https://www.gnu.org/software/emacs/) enthusiast-->
 - 🍎 MacOS user
 - 📫 Read more about me at my [personal website](https://visco01.github.io)
+<!--- 🌱 I’m currently learning Software Performance & Scalability, Web & Software Security, Software Correctness, Security and Availability-->
+<!--- 🤩 [Emacs](https://www.gnu.org/software/emacs/) enthusiast-->
 
 <hr>
 
